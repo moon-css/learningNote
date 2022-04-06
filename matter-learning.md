@@ -14,3 +14,5 @@
 var engine = Engine.create();
 ```
         
+2. runner
+> 提供了一个游戏循环，如果使用我们自己的循环代码则不需要定义这个模块。
