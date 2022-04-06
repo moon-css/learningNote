@@ -10,5 +10,7 @@
 > creating and manipilatong engines
 
 - methods
-    1. 
+```js
+var engine = Engine.create();
+```
         
