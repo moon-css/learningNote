@@ -7,7 +7,7 @@
 
 ## 2.开始学习
 
-1. 创建引擎，渲染器，添加世界，，生成Bodies模型
+1. 创建引擎，渲染器，添加世界，生成Bodies模型
 ```js
 var Engine = Matter.Engine,
     Render = Matter.Render,
